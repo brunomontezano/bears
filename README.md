@@ -1,7 +1,8 @@
 # BEARS - Bruno's Easy Arch Rice Setup
 
 
-![Screenshot2020-07-0715:04:58](https://user-images.githubusercontent.com/65104127/86823544-5515aa80-c063-11ea-9b8a-c6c868611ed7.png)
+![nordrice](https://user-images.githubusercontent.com/65104127/87493989-59723280-c624-11ea-9d9d-7c9863a4e303.jpg)
+
 
 These scripts were made by me (Bruno Montezano) to provide an easy way to install a fully functional Arch Linux graphical environment using i3-gaps and some other applications of my liking. Probably you won't use a lot of the programs that it installs, so I encourage you to take a look at the scripts and remove any unwanted software from there, so you can customize to just install stuff you need. It's nowhere near stable and you should first test on a VM (virtual machine) before trying on your real hardware.
 
