@@ -18,6 +18,21 @@ The first script will ask you to choose a username for your new account and then
 
 In the final setup script, pulseaudio is going to be started, yay (Arch User Repository Helper) is installed to install some other packages needed to the rice. And finally, my dotfiles (configuration files) are going to be cloned from my repository, the vim plugin manager installed and .xinitrc created with the "exec i3" command.
 
+## How do I run the scripts?
+
+First, logged as root user on your fresh Arch install, you can clone the repo with:
+
+```
+git clone https://github.com/brunomontezano/bears
+```
+
+And then, run the initial setup and follow the instructions that it gives you:
+
+```sh
+cd bears
+bash initialsetup.sh
+```
+
 ## Support
 
 If you have any problem, feel free to contact me here on GitHub via issue, or maybe check out my YouTube Channel (Bruno Montezano) for more content about Linux and open source world.
